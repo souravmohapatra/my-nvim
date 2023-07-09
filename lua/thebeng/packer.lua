@@ -50,5 +50,8 @@ return require('packer').startup(function(use)
   -------------------------------------------------------------------------
   use ('christoomey/vim-tmux-navigator')
 
+  -- Vim fugitive - a git thingy
+  -------------------------------------------------------------------------
+  use ('tpope/vim-fugitive')
 end)
 

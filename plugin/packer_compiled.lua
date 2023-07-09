@@ -116,6 +116,11 @@ _G.packer_plugins = {
     path = "/home/mohapatr/.local/share/nvim/site/pack/packer/start/vim-devicons",
     url = "https://github.com/ryanoasis/vim-devicons"
   },
+  ["vim-fugitive"] = {
+    loaded = true,
+    path = "/home/mohapatr/.local/share/nvim/site/pack/packer/start/vim-fugitive",
+    url = "https://github.com/tpope/vim-fugitive"
+  },
   ["vim-nerdtree-syntax-highlight"] = {
     loaded = true,
     path = "/home/mohapatr/.local/share/nvim/site/pack/packer/start/vim-nerdtree-syntax-highlight",
